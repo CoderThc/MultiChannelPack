@@ -1,5 +1,5 @@
 # MultiChannelPack
-# 通过apktool二次打包搞的一个多渠道打包(躲~
+# 极速Android多渠道打包
 
 使用步骤：
 
